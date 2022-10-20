@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Perfect Sky",
+    "price": "0.09",
+    "description": "Get the best sky foto",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmcS5hARSj1M7wqpacnh3kfHaZJKTvB6MLEB3e8XK467kf",
+    "filename": "perfect_sky.jpg",
+    "hash": "QmcS5hARSj1M7wqpacnh3kfHaZJKTvB6MLEB3e8XK467kf"
+  },
+  {
+    "id": 2,
+    "name": "Bored drawing",
+    "price": "0.01",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmY8FjgjsstYMQx5S9ytQobq2f9KY5kDtHxtJosENJSuao",
+    "description": "Drawing when I bored!"
+  }
+]
