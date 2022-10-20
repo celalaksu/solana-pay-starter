@@ -18,6 +18,8 @@ const App = () => {
   const isOwner = publicKey
     ? publicKey.toString() === process.env.NEXT_PUBLIC_OWNER_PUBLIC_KEY
     : false;
+
+  console.log("cüzdan sahibi midir ????? {}", isOwner);
   const [creating, setCreating] = useState(false);
 
   const [products, setProducts] = useState([]);
@@ -66,7 +68,6 @@ const App = () => {
       <div className="container">
         <header className="header-container">
           <p className="header">
-            {" "}
             😳 First, build the store; then find things to sell 😈
           </p>
           <p className="sub-text">This is my first store made by web3</p>
